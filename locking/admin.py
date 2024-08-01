@@ -5,7 +5,7 @@ import types
 
 from django import forms
 from django.conf import settings
-from django.conf.urls import re_path
+from django.urls import re_path
 from django.urls import reverse
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
